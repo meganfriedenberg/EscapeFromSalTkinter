@@ -1,0 +1,10 @@
+key,450,140
+door,300,360
+couch,c0,300,30
+couch,c1,300,200
+heart,30,260
+skeleton,skel1,200,200,y,150,370,1
+skeleton,skel2,300,100,x,100,400,1
+skeleton,skel3,100,50,y,50,200,1
+skeleton,skel4,300,250,x,300,400,1
+stop
